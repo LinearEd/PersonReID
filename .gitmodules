@@ -1,0 +1,9 @@
+[submodule "DG-Net"]
+	path = DG-Net
+	url = https://github.com/NVlabs/DG-Net
+[submodule "PerceptualSimilarity"]
+	path = PerceptualSimilarity
+	url = https://github.com/layumi/PerceptualSimilarity
+[submodule "TTUR"]
+	path = TTUR
+	url = https://github.com/layumi/TTUR
